@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Visitor 👋
+My name is Dylan  
+I’m currently learning about data science, music information retrieval, and quantum physics at the University of Victoria  
+Ask me about nature!  
+
+How to reach me: dylanhugheswork@gmail.com  
+Pronouns: He/Him   
 
 <!--
 **DH3773/DH3773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
