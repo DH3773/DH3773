@@ -1,6 +1,6 @@
 ### Hi Visitor 👋
 My name is Dylan  
-I’m currently learning about data science, music information retrieval, and quantum physics at the University of Victoria  
+I’m currently working as a QA at Cambio Earth Systems
 Ask me about nature!  
 
 How to reach me: dylanhugheswork@gmail.com  
